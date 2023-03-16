@@ -1,9 +1,10 @@
 ### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/Rao-Kai/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rao-Kai&layout=compact)](https://github.com/Rao-Kai/github-readme-stats)
+<div align=center>
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rao-Kai&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rao-Kai&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rao-Kai&show_icons=true&theme=tokyonight)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rao-Kai&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 <!--
 **Rao-Kai/Rao-Kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
