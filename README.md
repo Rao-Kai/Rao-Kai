@@ -6,13 +6,26 @@
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=STAY+HUNGRY;STAY+FOOLISH&center=true&size=27"> </a> </h1>
 
-<div align=center>
+<!--<div align=center>
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rao-Kai&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
- 
+</div>-->
+
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Rao-Kai&theme=github-compact&hide_border=true&area=true">
+<br/>
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Rao-Kai&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-
-
-</div>
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=Rao-Kai&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rao-Kai&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/>
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=cpp,matlab,py,c,md&theme=light" />
+</p>
 
 
  
